@@ -71,9 +71,5 @@ The stacking model combined the strengths of diverse learners and provided the h
 
 ---
 
-## ⚙️ Installation
 
-To install dependencies locally:
 
-```bash
-pip install -r requirements.txt
