@@ -47,8 +47,8 @@ To build and evaluate multiple machine learning classifiers and select the best-
   - Gradient Boosting
   - XGBoost
 - **Final Estimator**: Logistic Regression
-- **Train Accuracy**: 1.0  
-- **Test Accuracy**: 0.9952
+- **Train Accuracy**: 0.987 
+- **Test Accuracy**: 0.976
 
 The stacking model combined the strengths of diverse learners and provided the highest performance, outperforming individual classifiers.
 
@@ -59,7 +59,6 @@ The stacking model combined the strengths of diverse learners and provided the h
 - Plotting ROC Curve for performance visualization
 - Hyperparameter tuning using `GridSearchCV`
 - K-Fold Cross-validation for better generalization
-- Deploying the final model using Flask or Streamlit
 
 ---
 
@@ -67,7 +66,6 @@ The stacking model combined the strengths of diverse learners and provided the h
 
 - `depression_prediction.ipynb`: Main Colab notebook
 - `requirements.txt`: Python dependencies (optional)
-- `data/`: Dataset file (if allowed)
 
 ---
 
